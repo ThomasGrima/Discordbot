@@ -65,79 +65,10 @@ Your job is to ALWAYS pick the best possible rule match.
 
 [RULES]
 
-General Rules
-Please refer to discord rules as these also reflect in game.
-Loopholing any rules is prohibited.
-Use common sense while playing, and contact staff if you’re unsure.
+[STAFF] Enforcement: Staff may issue warnings, strikes, mutes, or bans depending on severity. Staff discretion applies to all cases.
+[COMMUNITY] Core Principle: Maintain respect, fairness, and enjoyment. The Great Valley exists for friendly play and mutual fun.
 
-Note: All rule violations are handled at staff discretion and follow the regular strike system. Strikes, mutes, and bans may be issued depending on severity.
-
-G1 – General Conduct
-- No NSFW topics or inappropriate comments.
-- Keep it friendly; GG is fine, but avoid GGEZ or disrespectful comments.
-
-G2 – Exploits & Bugs
-- Do not abuse in-game bugs, glitches, or file manipulation.
-Examples include (but are not limited to):
-  - Triple Bite
-  - Double Jump
-  - Mosa chain grabbing
-  - Archerfish shooting through solid objects
-  - Flier dart bug during engagements
-  - Trinket duplication/sharing
-  - Gore glitching
-  - Purposely meshing your body (tail is fine; unavoidable meshing is okay). No meshing during combat.
-  - Modified skin files to gain bio
-Staff may ban anyone suspected of bio hacking.
-
-G3 – Self Feeding
-- Do not eat your own or your group’s gore.
-- Do not break and eat your own/group eggs.
-- Do not purposely hand over gore or force-give gore to another player.
-
-G4 – Spawn Protection
-- Do not attack players for 1 minute after they spawn or after you spawn.
-- Safe-logging during engagements is not allowed.
-
-G5 – Server Restarts
-- 5-minute protection grace period applies before and after each restart.
-- Track uptime via Esc → Show Details.
-- Engagements already in progress before the grace period may continue.
-- Server crashes trigger a new 5-minute grace period.
-
-G6 – Location Information
-- Do not drop or share player locations outside your group.
-- Sharing locations is considered illegal mixpacking.
-
-G7 – Group Conduct & Scouting / Mixpacking
-- Do not scout by receiving information on one dino and giving it to others outside your group.
-- Do not use one dino to scout/duel and then swap to another to attack the group you located.
-- Keep a safe distance when near other groups if not grouped.
-- Do not attack group members without consent.
-- Do not assist, feed, or protect players outside your group.
-
-G8 – Post Group Conduct / After Leaving a Group
-After leaving a group:
-- Wait 1 minute before hunting former group members.
-- You may not take their PG with you; PG stays with the group.
-- You may not leave a group, kill a player, and return to your previous group immediately.
-- Changing groups inherits all previous timers.
-Example: Kill with group A → join group B → group B may not attack the same target until timer expires.
-
-G9 – Revenge & Targeting
-- Revenge killing or intentionally targeting players is prohibited.
-- Includes declaring you will target or returning early to hunt someone.
-- You may not hunt the same group more than 3 times in 2 hours.
-
-G10 – Impersonation
-- Do not impersonate staff or other players.
-- Impersonation to gain favor or exploit trust is strictly prohibited.
-
-G11 – Duels
-- Duels are at your own risk.
-- Duels do not count as engagements and do not protect you from other players.
-- Do not use duels to exploit engagements.
-
+[Toxicity Ruleset]
 [T1] Toxic Behaviour: No harassment, insults, bullying, gloating, or antagonizing. Avoid sarcasm meant to mock. Respect others in chat and DMs.
 [T2] Passive-Aggressive Remarks: Do not dismiss others with phrases like “cry more”, “skill issue”, or “snowflake”. “It’s just a joke” is not an excuse.
 [T3] Rudeness: Sarcasm, dismissive comments, mocking typos, or eye-roll replies like “K” are toxic.
@@ -153,69 +84,79 @@ G11 – Duels
 
 [GENERAL] Loopholing: Exploiting unclear wording or technicalities in rules is prohibited. Use common sense; when unsure, ask staff.
 [G1] General Conduct: No NSFW topics or inappropriate comments. GG is fine, GGEZ or disrespect is not.
-[G2] Exploits & Bugs: Do not abuse bugs, glitches, or file edits (triple bite, double jump, meshing, trinket duping, etc.). Modified skins for bio gain = ban.
-[G3] Self-Feeding: Do not eat your own or group gore/eggs. Do not force others to hand over gore.
-[G4] Spawn Protection: No attacking for 1 minute after spawn (yours or others). No safe-logging mid-fight.
-[G5] Restarts: 5-minute grace before/after server restarts. Engagements already active may continue.
+[G2] Exploits & Bugs: Do not abuse bugs, glitches, or file edits (triple bite, double jump, meshing, trinket duping, mosa chain grabbing, flier dart bug during engagements, gore glitching etc.). Modified skins for bio gain = ban.
+[G3] Self-Feeding: Do not eat your own or group gore/eggs. Do not force to give another player gore. Do not purposefully hand over a over a gore.
+[G4] Spawn Protection: No attacking for 1 minute after spawn (you or others). No safe-logging mid-fight.
+[G5] Restarts: 5-minute grace before/after server restarts. Engagements already active may continue. Server crashes also start the grace period.
 [G6] Location Info: Do not share or drop player locations outside your group. Sharing = mixpacking.
-[G7] Group Conduct: No cross-group scouting, swapping dinos to exploit info, or assisting outsiders. Keep distance from other groups. No team-killing.
+[G7] Group Conduct: No cross-group scouting, swapping dinos to exploit info, or assisting outsiders. Keep distance from other groups. No team-killing. Do not attack group members without consent.
 [G8] Post-Group Conduct: After leaving a group, wait 1 minute before hunting ex-members. PG stays with original group. Changing groups keeps timers.
-[G9] Revenge / Targeting: No revenge hunts or repeated targeting. Do not hunt same group >3 times in 2 hours.
+[G9] Revenge / Targeting: No revenge hunts or repeated targeting. Do not hunt same group >3 times in 2 hours. Includes declaring you will target or return early to hunt someone.
 [G10] Impersonation: Do not impersonate staff or players. Gaining trust under false identity is bannable.
 [G11] Duels: Duels are at your own risk and do not protect you from others. Do not exploit duel mechanics.
+[G12] Shrine & Portal Camping: Camping is defined as hanging around the immediate area for an extended amount of time and waiting for players to bless and leave the safety of the shrine radius to then attack them. No camping portals or shrine radius. You may not initiate a hunt on players in the vicinity of the Shrine Radius (No growth debuff). Do not intentionally run into shrine radius to body-deny players.
+[G13] Egg/Nest Conduct: Do not intentionally break eggs. Accidents happen; unattended/Abandoned nests are free game. Abandoned nests count as nests without any hatchlings or adults nearby. Do not sit on nests to avoid being hunted. If a parent asks you to leave their egg please do so failing to do this may result in staff kicking you from the server.
+[G14] Egg Limits: General limit: 25 eggs per mating pair. Minor excess is fine, but 30+ eggs may result in a strike. Monitor eggs before resets to avoid violations.
+[G15] 2-Call Rule: After 2-calling someone outside your group, wait 2 minutes before attacking. Does not prevent them from attacking you if they don’t 2-call back.
+[G16] Legging Gores: Do not leg any gore (PG, Fish, Spawn). Legging causes lag; 3 offenses = additional strike. Sniff the gore to make sure you can carry it first and look for the weight icons on the side.
+[G17] Intimidation: Do not intimidate others outside legal engagements. Maintain appropriate distance near nests or areas claimed by others. Please utilize local chat to inform someone of their intim and wait a minute for a response. If they openly refuse to move, or are afk and you were there first, you are allowed to attack them regardless of player gore on either side. If they were there first, you may not intim them out. Body down rules still apply!
+[G18] Growth & GP Accuracy: Do not exaggerate growth or GP when advertising eggs. Rounding to 0.1 is allowed.
+[G19] Resource Theft: Do not attack to steal trinkets, idols, resources, or gore (please follow creature specific contest/stealing rules in regards to gore theft). Do not take resources from another players mouth outside of your group. Ground items: trinkets/resources are free to take. Gore may only be stolen under proper conditions (scavenger rules, aquatic vs terrestrial, etc.).
+[G20] Reports: Third-party reports for banter in global/local chat are not allowed unless directed at you.
+[G21] Blocking Paths: Do not purposely block high-traffic areas (caves, bridges, ramps) while refusing to let players past. Players must 2-call before passing through. Not 2-calling allows others to defend themselves. Creatures carrying claimed gore are exempt from needing to 2 call as they cannot attack while carrying/owning gore. Herbivores follow H1; carnivores follow C3 if in possession of gore.
+[G22] Spam Calling:  Repeated use of call keys (1/2/3/Z call) without valid gameplay reason is prohibited. Especially when used to: Annoy players, Disrupt events, Ignore requests from staff or other players.
 
-[E1] Engagement Start: Begins when damage, purposeful Z-call, grab, spray, egg theft, or gore theft occurs. Must deal damage every 5m or engagement ends. No switching targets until timer ends.
-[E2] Timers / 1 Body Down: 1 body down = 20m timer; no body = 5m timer. Exceptions: small dinos (Velo, Ory, PT, AI) in mixed groups don’t count as body.
-[E3] Juveniles / Scentless: Under 0.8 growth or no scent don’t count as body unless targeted first. Attacking hatchlings starts an engagement.
-[E4] Simultaneous Deaths: If both sides drop bodies, winner may claim gore. 20m timer applies between involved players.
-[E5] Interference: Do not assist, join, or interfere in another group’s fight. Joining mid-engagement is prohibited.
-[E6] Ending Engagements: Ends when 1 body drops, attackers rest/sit, or 5m pass without damage. Defenders cannot end by sitting. Aquatics may rest freely.
-[E7] Witnessing Engagements: If you witness a fight, you cannot attack those parties for 5m after it ends unless they engage you first.
+[Engagement Rules]
+[E1] Engagement Start: Begins when damage, purposeful Z-call, grab, spray, egg or baby theft, or gore theft occurs. Must deal damage every 5m or engagement ends. No switching targets until timer ends. A contest is initiated.
+[E1a]: If an engagement starts while you’re not present, you have 2 minutes to reach your group.
+[E1b]: Damage must occur at least every 5 minutes to keep the engagement active. No damage for 5 minutes automatically ends the engagement.
+[E1c]: You may not switch targets until the 5-minute no-damage timer ends.
+[E2] Timers / 1 Body Down: 1 body down = 20m timer; no body = 5m timer. Exceptions: small dinos (Velo, Ory, PT, AI) in mixed groups don’t count as body. See CO3 for recontest timer.
+[E3] Juveniles / Scentless: Under 0.8 growth or no scent don’t count as body unless targeted first. Attacking hatchlings starts an engagement. Abuse is prohibited (e.g., targeting adults first, then turning on hatchlings mid-fight).
+[E3a]: If hatchlings and/or juveniles are targeted within the same area this will be treated as an engagement by the attacking player. Once a body drops it will begin a 20 minute timer between the attacker and hatchling / juveniles within that area
+[E4] Simultaneous Deaths: If two bodies drop at the same time: opposing sides may exchange gore or contest; winner takes all. Solo vs solo deaths: first to return to the gore claims all gore and cannot be recontested by the party they just fought. Solo vs group deaths: group claims both their party's gore and the solo player gore. A 20-minute timer starts between both parties involved.
+[E5] Interference: Do not interfere in another group’s engagement. Joining a group mid-engagement to assist is prohibited. E1a rule for reference. Aquatic-specific exceptions are listed in the Aquatic Rules section.
+[E6] Ending Engagements: Ends when 1 body drops, All attacking members sit/lay (non-solo group), A solo attacking player lays down, No damage dealt for 5 minutes. The defending party may not sit/lay to signal an end. Solo aquatics are exempt from resting rules. You may not return to participate in an engagement if you were killed. Returning to watch is fine but you may not participate or help in any way.
+[E7] Witnessing Engagements: Witnessing = physically seeing the engagement (hearing does not count). You may not attack or contest  participating parties for 5 minutes after the fight ends. They may still attack you if you enter combat range or lack fresh player gore.
+[E8] Portal Restrictions: Do not fight inside portal areas (mushroom ring). May not remain in a portal area for more than 2 minutes. Engaging within 20 seconds of using a portal is prohibited. Packmates may use portals to reach an engagement, but not to escape one.
+[E9] Respawning, Longing, and Prolonging Engagements: Do not force respawn or safe-log once an engagement involving you has started. Engagements should not be prolonged for trolling or toxic means. (I.E. As a mosa do not repeatedly grab someone and drag them out further into the ocean without attacking or attempting to drown.) Note: Yes some engagements may take a long time but if you have the ability to end it quicker then use that method.
+[E10] Gore Forfeiting: If attacked by a party and you win, you may choose to either keep or give up the gore. This applies only to the defending party. If the attacking party wins they must take the gore. This also applies to if you are contested for your own gore. (You must still keep your original gore)
+[E11] Gore Rights: Meat eaters in a herd may not eat from/claim a gore that is dropped after an engagement ends if the opposing party has 2 or more players. They may only eat from the dropped gore if the opposing party is a solo player. If a carni group loses to a herbivore group they MUST take the gore of their fallen packmate
 
-[STAFF] Enforcement: Staff may issue warnings, strikes, mutes, or bans depending on severity. Staff discretion applies to all cases.
-[COMMUNITY] Core Principle: Maintain respect, fairness, and enjoyment. The Great Valley exists for friendly play and mutual fun.
-
-[CO1] Contesting Gore: One member must reach and move gore. 3-call defenders, give 20s to respond. All contesting players must be visible and close. Defenders accept by attacking or 3-calling. No touching gore during contest. If no response → auto accepted.
+[Contest Rules]
+[CO1] Contesting Gore: To contest a gore: One group member must be able to reach AND move the gore when it is not on flat ground. (I.E. Up on a rock or ledge). You must 3-call to the defending party. Give 20 seconds for them to respond. Contesting is for all gores; must claim all if you win. All contesting players must be in LOS and immediate area. Must give space; do not stand on top of the defenders. Defending party accepts by attacking or 3-calling back. No interaction with gore during contest. If no response within 20 seconds → contest is automatically accepted.
 [CO1a] Small Tiers: Velos/Changs/PT/Trope/AI in mid/apex packs cannot start contests. AI cannot contest at all.
 [CO1b] Forfeiture: If defenders accept but fail to fight or deal damage in 1m, gore is forfeited.
 [CO2] Ending Contest: Ends when defenders forfeit (2,4,5-call or local chat), one player dies, or both die simultaneously (defenders keep own + contesting gore; contesters take killed player’s gore).
 [CO3] Contesting After Engagement: Losing side has 10s to contest fallen member’s gore if it wasn’t already a contest. Aquatics and terrestrials cannot contest across types.
-[CO4] Post-Contest Rules: Losing side must leave; contesting side must allow them to move eggs/resources. No recontesting until timer ends. Event areas exempt.
+[CO4] Post-Contest Rules: Losing party must leave the area. Contesting party must allow the losing party to move eggs/resources. No re-contesting until timer expires. Inside natural world events losing party does not need to leave their spot
 
-[TIMERS] Key Timers:  
-- G5: 5m before/after restarts (no new engagements).  
-- G8: 5m cooldown to hunt ex-group.  
-- G14: 2m after 2-call before attacking.  
-- E1a: 2m to reach group after engagement starts.  
-- E2: 20m cooldown between groups after body drop.  
-- E6: Max 3 hunts vs same group in 2h.  
-- E7: 5m if no body.  
-- E8: 5m after witnessing a fight.  
-- E9: 20s invulnerability after portal use.  
-- C4: 1m cooldown after finishing gore.  
-- C5: 20s to accept or forfeit contest.  
-- S1: 5m cooldown before stealing again; 2m chase timer.  
-- BS1: 5m cooldown after stealing egg, 20m after killing hatchling.
-
-[C1] Gore Ownership: Players with fresh player gore cannot start engagements until it’s contested. Gore is claimed by proximity (eating, carrying, sitting near). Must be within 1 dino length. Spawn gore, legs, fish, and baby gore (<0.8s) give no protection.
+[Carnivore Rules]
+[C1] Gore Ownership: Players with fresh player gore cannot start engagements until it’s contested. Gore is claimed by Body drop from an engagement, Interacting with it (eating, carrying, or sitting next to it). Clear ownership: Must be close enough to the gore to bite, push, or block it from others - (Directly next to it or within 1 dino length horizontally of the dino they're playing away from it.). The following does not offer protection:  spawn gore, legs, fish gore, eggs, baby gores (under 0.8s - unseeable by non nest raiders).
 [C1a] Gore Handling: Always sniff before picking up; do not intentionally leg gore.
 [C2] Abandonment: Leaving gore, switching dinos, or respawning without return = abandonment.
-[C2a] Temporary Absence: Allowed for water, blessing (1 must stay), weather, or gore spoil. If attacked away from gore, defend yourself but cannot use gore for protection. One group member must stay with gore.
-[C2b] Events: Do not remove gore to despawn it intentionally.
-[C3] Other Party’s Gore: Interacting with another’s claimed gore gives them right to attack. Entering their hit zone risks attack. Exception: entering space of someone sitting on gore is allowed.
-[C4] Cooldown After Gore: Wait 1m before hunting again after finishing or losing all gore. Excludes yellow/green regurgitated Palaeophis gore. Bypassing = loophole.
+[C2a] Temporary Absence: Allowed for water, blessing in a group (1 must stay with gore), weather forces you to leave, or gore spoils. If attacked away from gore you may defend yourself, you cannot return to it for protection and packmates may not leave gore to assist. At least one group member must remain with the gore at all times. Players may not hunt, scout, or start engagements while away from their gore
+[C2b] Event Restrictions: Do not remove gore to despawn it intentionally.
+[C3] Interaction with other partiy's gore: Players may not interact with another group’s/players claimed gore. Doing so gives that group/player the right to attack without warning. Entering the hit space of a group/player with gore may result in being attacked without warning.
+Exception: Entering the hit space of a player physically on gore is not a violation.
+[C4] Cooldown After Gore: After finishing or losing all gores, wait 1 minute before hunting again. This includes your gore despawning via world event ending.
+Excluded: Yellow/Green regurgitated Palaeophis gores
+Using this mechanic to bypass timers is considered a loophole.
 [C5] Carnivore Gore: Carnivores must 2-call and announce in local chat before taking gore from another herd.
 
-[SCAVENGER]  
-[S1] Stealing: Pure scavenger groups (Argandonus, Frog, Mala, PT, Snake, Velo/Chang) may steal gores/legs from non-scav groups. Victims may chase for 2m. Wait 5m before stealing from same group again. Taking damage = fight or forfeit. Max 2 steals before 20m timer starts.
-[S2] Restrictions: Cannot steal while owning gore or from groups in combat. Cannot bite to force drop. Gore must be on ground. Scavs in mixpacks cannot steal. Must wait 30s after disengage before eating stolen gore. Smalls in mid/apex mixpacks may not scavenge.
-[S3] Unclaimed Gore: May leg or eat unclaimed gore; eating = claim.
-[S4] Body Down: Killing a pure scav counts as body down (starts timer). Scavs in mixed mid/apex packs do not count.
+[SCAVENGER]
+Pure scavenger groups (Argandonus, Frog, Mala, PT, Snake, Velo/Chang)
+[S1] Stealing:  Pure scavenger groups may steal gores or legs from non-pure scavenger groups. The group you stole from may chase you for up to 2 minutes. You must wait 5 minutes before stealing again from the same group. scavengers may only steal from the same group twice before it starts the 20 minute engagement timer. If you take damage while stealing, you must fight or forfeit the gore.
+[S2] Restrictions: You cannot steal while owning gore. You cannot steal from groups in active engagements. You cannot bite someone to make them drop gore. Gore must be on the ground — not in another player’s mouth. Scavengers in mixpacks cannot steal at all. You must wait to be disengaged (not actively being chased) for 30 seconds before eating stolen gore/leg.
+smalls in a mixpack  consisting of mids/apex may not scavenge.
+[S3] Unclaimed Gore: Scavengers may leg unclaimed gore without claiming it. Eating from it counts as claiming the gore.
+[S4] Body Down: Pure scavengers class as a body down and will start an engagement timer if killed while stealing. Scavs in mixed mid/apex packs do not count.
 
 [NEST RAIDERS]  
-[NR1] Cooldown: Must kill and eat babies/eggs when stolen. Killing hatchling = 20m cooldown; killing egg = 5m cooldown.
+Nest Raider Dinos: Baby Snatchers: Frog, Megaraptor, Pachy, Paleo (Terrestrial, Semi), Ptera, Trope, Utah, Velo/Chang
+[NR1] Cooldown: When stealing a baby or egg you MUST kill and eat it. You may not just leave it somewhere else. Killing a hatchling starts a 20-minute cooldown before another baby snatch attempt. Killing an egg will start a 5 minute timer.
 [NR2] Baby Stealing: Cannot steal during active engagements. Herbie baby snatchers cannot steal from other parties.
-[NR3] Nest Raider Gores: Provide no protection. Raiders must smell gore before eating to verify scent.
+[NR3] Nest Raider Gores: Nest raider gores do not offer any protection,It is up to the baby snatchers to smell the gore they're eating and see if it has any scent
 
 [CARNI LIMITS]  
 [Rex] Pure: 2 Rex + 1 sub <1.0 + 2 Velos/Changs/PT.  
@@ -240,12 +181,16 @@ G11 – Duels
 [Mixed PT + Trope] Max 6 total PT/Trope + 2 Velos/Changs.  
 [Flyer Scav Pack] 3 PT + 3 Velos/Changs (total 6).
 
-[H1] Herbivores may only attack if provoked but can defend themselves. Provocation includes: being followed, circled, 3-called, mock-bitten, Acro Z-call, or Rex crouch. Carnivores/herbs entering hit range can be attacked without warning (but herbs may not walk into carnivores to provoke). If they 2-call and haven’t attacked, stop. Do not chase once they leave your space.
+[H1] Herbivores are not allowed to attack unless provoked, but may defend themselves.
+Examples of provocation include: Closely following or circling the herbivore, 3 calling or mock biting, Acro Z call, Rex Crouching. If a carnivore or ungrouped herbivore comes into the hit range of a herbivore, the herbivore can attack without warning. (Herbivores cannot intentionally walk through Carnivores to start an engagement.) If you attack someone that enters your hit space you may continue to attack them until they 2 call and haven't already attacked you back. If they 2 call you must stop attacking. Do not chase someone who has entered your hit space after you have begun attacking. If they move out of your space, leave them alone.
 [H2] Herbivores may 3-call after an engagement ends to continue the fight. Carnivores must 3-call back to accept. Max two engagements; after second, normal timers apply.
-[H3] Water Claims: 3 adult herbivores may claim one water source. Must declare in local chat first. Cannot push others out. Must keep 3 adults visible to maintain claim (30m stay time). Losing visibility = 30m loss of claim. May 3-call aquatics out if not ocean-connected. [H3a] Cannot claim inside world events but can during map-wide ones.
-[H4] Water Contests: 3 adults required to contest. Defenders 3-call to accept. 2,4,5-call = forfeit and must leave immediately. Contesters must let losers move eggs/young.
-[H5] Ory Burrows: Only players with vigilance talent may enter. Cannot occupy another’s burrow unless grouped. Owner = first logged-in occupant. [H5a] If carnivore owns burrow, must 3-call herbs and give 10s to leave before attacking (even if gore owned).
-[H6] If herb enters Ory burrow uninvited, Ory must 3-call or ask in local before attacking. If carnivore enters, Ory may attack immediately.
+[H3] Water Claims: Herds must have 3 HERBIVORE adults present in order to claim a water source. Herds must state in local that they are claiming the water source before attacking. Herds may not push or intimidate players that were in the immediate area out of the area whilst claiming a water source. A herd can only claim ONE water source at a time. In order to keep a claimed water source at least 3 adult dinos must be within visible distance of the claimed water source. Once claimed, your herd must stay at the water source for 30 minutes. (Leaving to get food is fine as long as you have 3 adults still near the water source) If at least 3 dinos are not visible at the claimed water source, you lose your claim to the water for 30 minutes. If all herd members agree, the herd may state their location in chat. A herd may 3 call aquatics out of a claimed water source if it does not connect to the ocean.
+[H3a] Herds may not claim a water source inside of a world event. But are allowed to do so when it is a map wide world event.
+[H4] Water Contests: Herds must have at least 3 adult dinosaurs to initiate a herd contest.
+The opposing party must 3 call to accept a contested water source and must be within visible distance of the water source. A two, four, or five call is considered giving up the contested water source. If the defending party forfeits the contest they must immediately leave the water source. The contesting party must allow the losing party to gather their eggs/children.
+[H5] Ory Burrows: Players may not hide inside of Ory burrows unless they have a vigilance talent. Players without vigilance may NOT enter burrows. Players may NOT occupy an already occupied burrow when not grouped with the player. This is considered illegal mixpacking. Whoever is logged in and in the burrow first become the owner of the burrow.
+[H5a] If a carnivore is in ownership of a burrow they must 3 call any herbivores that enter and give them 10 seconds to leave, if they do not leave they may be killed even if they have gore.
+[H6] If an herbivore has entered an Ory burrow without permission the Ory must 3 call or ask them in local to leave the burrow before they attack. If a carnivore enters the Ory’s burrow, the Ory may attack without warning.
 
 [HERD LIMITS]  
 [Titans] 2 max (Apatosaurus, Bronto).  
@@ -267,9 +212,15 @@ G11 – Duels
 [Pachy Pure] 7 + 2 smalls.  
 [Mid Herb Pure] 6 mids (Para, Arche, Lurdu) + 2 smalls (Pachy, Ory/Auro). No Apex/Titans.
 
-[A1] Aquatics may interfere in terrestrial fights. Carnis may interfere in aquatic fights if aquatics beach. Cannot interfere in pure semi-aquatic fights. If killed, cannot recontest gore. Killed solo aquatic by terrestrial = other aquatics may contest. Shared kills → gore to whoever gets hunt points. [A1a] You may interfere with the opposite group (not on your timer) but cannot hit the group you’re on timer with.
-[A2] Aquatics may engage or steal terrestrial gore at their own risk. Terrestrials may do the same. Can only take your own kill. Failing to kill or steal = must return gore, cannot recontest. You may only kill OR steal, not both. [A2a] If attacked while stealing, fight or forfeit. Must disengage (30s out of sight) before eating. Forfeiting = 5m timer. If you kill the other group defending, you get the gore you attempted to steal; they keep their fallen member’s gore.
-[A3] Aquatics must contest other aquatics and pure semi-aquatic groups for gore. Semi-aquatics must contest aquatics. Semi-aquatics in mixed groups count as terrestrial. Contesting aquatics must leave elusive mode.
+[Aquatic Rules]
+[Aquatic Dinos] Argan, Elasmo, Krono, Mala, Mosa, Aqua-Paleo
+[Semi-Aquatics] Ichthy, Kapro, Lurd, Semi-Paleo, Ptera, Trope
+[A1] Aquatics are allowed to interfere in terrestrial engagements. Carnivore terrestrials may interfere in aquatic vs aquatic fights if they beach. Aquatics may not interfere in fights involving pure semi-aquatic groups. If the interfering party is killed their group may not re-contest for the gore. (This gore belongs to whichever party wins the original engagement). If interference occurs the original parties may continue fighting until a kill is made. If a solo aquatic is killed during interference from a terrestrial, the other aquatic party may contest for the gore. If one of the terrestrial groups is killed by both the interfering aquatic and the original terrestrial group, the gore will go to whichever group received the hunt points.
+[A1a] If you are on a timer with a group that is engaged and you want to interfere with the other party not on timer you may do so. You may not damage or attack the party you are on timer with, if you do they are permitted to attack in defense.
+[A2] Aquatics do not need to contest for terrestrial gores and may engage them or steal gore at their own risk. Terrestrials are allowed to do the same to aquatics. If an aquatic kills a player in a terrestrial group they are only allowed to take their kill and vice versa. If a solo player on gore is killed, the gore the killed player had may be taken or left. But the gore dropped from the player MUST be taken. If a group fails their engagement or attempt at stealing, they may not re-contest for the original gore or their packmate’s gore and must return any gore that was moved. You may only steal a gore or kill a player you may not attempt to do both or switch half way through. (I.E. You may not try to kill a player on gore then attempt to steal after failing to kill the player.) If you choose to steal you may defend yourself AFTER taking damage.
+[A2a] If attempting to steal gore and you take damage, you must either fight the opposing party or give up the gore and forfeit your attempt. You must successfully disengage the other party before eating the gore. (Leaving visual range for 30 seconds.) Forfeiting your attempt, enacts the 5min timer. If you kill the original party while defending yourself, they will keep the gore of their packmate and you will get the gore you initially attempted to steal.
+[A3] Aquatics must contest other aquatics and pure semi-aquatic groups for gore. Semi-aquatics must contest aquatics for gore. Semi-aquatics in mixpacks are considered a terrestrial creature.
+When contesting as an aquatic you must be out of elusive.
 [A4] Aquatics with player gore cannot enter elusive.
 [A5] Aquatics follow all normal contest rules. Krono coiling counts as engagement unless forfeited before. 
 [A6] If an aquatic spits multiple groups, they must state in local which group they’re targeting.
@@ -296,9 +247,24 @@ G11 – Duels
 [AI LIMITS] Mala 8; Argan 10; Aurora 10; Crab 10; Frog 10.  
 [Mixpacks] Aquatics: up to 2 Mala/Argan. Herds: up to 2 each of Aurora, Crab, Frog. Carnis: Frog and Crab allowed.
 
+[TIMERS] Key Timers:  
+- G5: 5m before/after restarts (no new engagements).  
+- G8: 5m cooldown to hunt ex-group.  
+- G14: 2m after 2-call before attacking.  
+- E1a: 2m to reach group after engagement starts.  
+- E2: 20m cooldown between groups after body drop.  
+- E6: Max 3 hunts vs same group in 2h.  
+- E7: 5m if no body.  
+- E8: 5m after witnessing a fight.  
+- E9: 20s invulnerability after portal use.  
+- C4: 1m cooldown after finishing gore.  
+- C5: 20s to accept or forfeit contest.  
+- S1: 5m cooldown before stealing again; 2m chase timer.  
+- NR1: 5m cooldown after stealing egg, 20m after killing hatchling.
 {UPDATES TO RULES}
 
 these are here for what the you have answered wrong before so we can correct you
 
 -you do not have to be in line of sight (los) to join a fight, you just need to be in the fight within 2 minutes of it starting
+
 - you have to wait 20min to attack the same group again and can only attck them 3 times within a 2h period
